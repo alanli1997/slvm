@@ -1,3 +1,9 @@
+'''
+SLVM-tools:
+This script will help you convert YOLO formatted txt annotations to coco formatted json annotations
+for accuracy evaluation using coco format.
+'''
+
 import os
 import json
 import cv2
@@ -115,12 +121,12 @@ def convert_yolo_to_coco(images_dir, labels_dir, output_json):
         json.dump(coco_dict, f)
     print(f"✅ transfer completed, saving to {output_json}")
 
-# 用法示例（修改路径）
+# 用法示例(修改路径)
 # to modify the path to yours datasets
 convert_yolo_to_coco(
     images_dir="images/val",
     labels_dir="labels/val",
     # the validation annotations json filename, for evaluation of coco format
     # 输出你的验证json文件用于coco格式的精度评估
-    output_json="val_bbox.json" 
+    output_json="val_bbox.json"
 )
