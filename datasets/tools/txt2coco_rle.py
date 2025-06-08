@@ -116,8 +116,11 @@ def convert_yolo_to_coco(images_dir, labels_dir, output_json):
     print(f"✅ transfer completed, saving to {output_json}")
 
 # 用法示例（修改路径）
+# to modify the path to yours datasets
 convert_yolo_to_coco(
     images_dir="images/val",
     labels_dir="labels/val",
-    output_json="val_bbox.json"
+    # the validation annotations json filename, for evaluation of coco format
+    # 输出你的验证json文件用于coco格式的精度评估
+    output_json="val_bbox.json" 
 )
