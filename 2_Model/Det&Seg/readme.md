@@ -1,1 +1,3 @@
 coming soon...
+1. for speed (YOLO/DETR ...)
+2. for accuracy (be pending)

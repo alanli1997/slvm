@@ -7,9 +7,12 @@
 
 图像现已开放访问，标注文件将在期刊/会议处理完毕后开放。
 
+### SLVM 在运动感知(光流等)上的优势
+![flow](figs/f10.png)
 
  ## 参考
   - https://github.com/AlanLi1997/slim-neck-by-gsconv
   - https://github.com/AlanLi1997/rethinking-fpn
   - https://github.com/ultralytics/ultralytics
   - https://github.com/haofeixu/gmflow
+  - https://github.com/neufieldrobotics/NeuFlow_v2
