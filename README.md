@@ -1,6 +1,6 @@
 # A Biologically Inspired Separable Learning Vision Model for Real-time Traffic Object Perception in Dark
 
-[简体中文](README.zh-CN.md) | [English](README.md)
+[简体中文](README-zh-CN.md) | [English](README.md)
 <br>
 
 ![framwk](figs/framwk.png)
