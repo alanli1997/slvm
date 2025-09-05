@@ -1,4 +1,4 @@
-# 用于暗光交通场景目标感知的生物启发的视觉模型
+# [用于暗光交通场景目标感知的生物启发的视觉模型](https://doi.org/10.1016/j.eswa.2025.129529)
 
 ![framwk](figs/framwk.png)
 
@@ -6,6 +6,8 @@
 可用于低光条件下的交通场景的目标检测、实例分割和光流估计。包括~10k 图像和~100k标注，地址： [Google Drive](https://drive.google.com/drive/folders/1B8EzDn64bGBgyRCfppL_jhcOA3hIwnzi?usp=sharing)
 
 图像现已开放访问，标注文件将在期刊/会议处理完毕后开放。
+
+- 更新(9.5 2025):论文期刊版本已发布，标注在谷歌云盘已可用
 
 ### SLVM 在运动感知(光流等)上的优势
 ![flow](figs/f10.png)
