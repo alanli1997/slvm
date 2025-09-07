@@ -12,7 +12,8 @@ images (~10k) and annotations (~100k) in [Google Drive](https://drive.google.com
 
 The images are now available, and annotations will be released after the paper is processed by the journal/conference.
 
-- 9.25 update: Available on _Expert Systems with Applications_, annotations is released.
+- 9.05 update: Available on _Expert Systems with Applications_, annotations (Detection/Segmentation/Flow) is released.
+- 9.07 update: Code (SLVM for Static & Motion perception) is preparing to be released.
 
 ### SLVM for optical flow
 ![flow](figs/f10.png)
