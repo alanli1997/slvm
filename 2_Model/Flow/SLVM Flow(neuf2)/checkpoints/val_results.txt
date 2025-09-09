@@ -1,0 +1,30 @@
+step: 001000 lr: 0.000100
+| kitti_epe: 14.039 | kitti_f1: 76.978 
+
+step: 002000 lr: 0.000100
+| kitti_epe: 7.736 | kitti_f1: 54.593 
+
+step: 003000 lr: 0.000100
+| kitti_epe: 5.495 | kitti_f1: 35.789 
+
+step: 004000 lr: 0.000100
+| kitti_epe: 3.747 | kitti_f1: 22.886 
+
+step: 005000 lr: 0.000100
+| kitti_epe: 4.074 | kitti_f1: 22.416 
+
+step: 006000 lr: 0.000100
+| kitti_epe: 2.855 | kitti_f1: 17.140 
+
+step: 007000 lr: 0.000100
+| kitti_epe: 2.952 | kitti_f1: 16.421 
+
+step: 008000 lr: 0.000100
+| kitti_epe: 2.419 | kitti_f1: 13.809 
+
+step: 009000 lr: 0.000100
+| kitti_epe: 2.460 | kitti_f1: 13.624 
+
+step: 010000 lr: 0.000080
+| kitti_epe: 2.118 | kitti_f1: 11.274 
+

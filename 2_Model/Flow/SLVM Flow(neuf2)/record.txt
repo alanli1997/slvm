@@ -1,0 +1,12 @@
+NeuFlow2, 11910MiB / 24370MiB
+dark-traffic,
+Number of params: 9029536, Number of training images: 200
+Validation KITTI EPE: 2.417
+Validation KITTI F1: 13.536
+Steps: 10000 EPE: 2.488 MAG: 8.839 8e-05
+
+NeuFlow2-lapm, 11490MiB / 24370MiB
+dark-traffic,
+Number of params: 9029577, Number of training images: 200
+Validation KITTI EPE: 2.118
+Validation KITTI F1: 11.274
