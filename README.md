@@ -15,6 +15,10 @@ The images are now available, and annotations will be released after the paper i
 - 9.05 update: Available on _Expert Systems with Applications_, annotations (Detection/Segmentation/Flow) is released.
 - 9.07 update: Code (SLVM for Static & Motion perception) is preparing to be released.
 - 9.09 update: Code (SLVM for Motion perception) is released.
+- 9.24 update: Code (SLVM for Static perception) is released.
+
+### SLVM for Det&Seg
+training step coming soon...
 
 ### SLVM for optical flow
 ![flow](figs/f10.png)
